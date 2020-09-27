@@ -1,10 +1,5 @@
 pipeline {
-  agent {
-    node {
-      label 'slave1'
-    }
-
-  }
+  agent any
   stages {
     stage('Run Chrome') {
       steps {
