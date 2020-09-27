@@ -1,0 +1,5 @@
+org\shirokuma\steps\DefinitionSteps.class
+org\shirokuma\DefinitionTestSuite.class
+org\shirokuma\drivers\CustomDriver.class
+org\shirokuma\pages\DictionaryPage.class
+org\shirokuma\steps\serenity\EndUserSteps.class
