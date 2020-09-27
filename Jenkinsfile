@@ -8,4 +8,8 @@ pipeline {
     }
 
   }
+  environment {
+    JAVA_HOME = 'JAVA_HOME'
+    MVN = 'MVN'
+  }
 }
